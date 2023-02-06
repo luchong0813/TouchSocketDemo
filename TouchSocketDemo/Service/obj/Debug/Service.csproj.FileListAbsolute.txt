@@ -1,0 +1,13 @@
+E:\02-其它代码\TouchSocketDemo\Service\bin\Debug\Service.exe.config
+E:\02-其它代码\TouchSocketDemo\Service\bin\Debug\Service.exe
+E:\02-其它代码\TouchSocketDemo\Service\bin\Debug\Service.pdb
+E:\02-其它代码\TouchSocketDemo\Service\bin\Debug\TouchSocket.dll
+E:\02-其它代码\TouchSocketDemo\Service\bin\Debug\TouchSocket.xml
+E:\02-其它代码\TouchSocketDemo\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+E:\02-其它代码\TouchSocketDemo\Service\obj\Debug\Service.csproj.SuggestedBindingRedirects.cache
+E:\02-其它代码\TouchSocketDemo\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+E:\02-其它代码\TouchSocketDemo\Service\obj\Debug\Service.csproj.CopyComplete
+E:\02-其它代码\TouchSocketDemo\Service\obj\Debug\Service.exe
+E:\02-其它代码\TouchSocketDemo\Service\obj\Debug\Service.pdb
+E:\02-其它代码\TouchSocketDemo\Service\bin\Debug\Common.dll
+E:\02-其它代码\TouchSocketDemo\Service\bin\Debug\Common.pdb

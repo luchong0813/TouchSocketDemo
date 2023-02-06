@@ -1,0 +1,6 @@
+E:\02-其它代码\TouchSocketDemo\Common\bin\Debug\Common.dll
+E:\02-其它代码\TouchSocketDemo\Common\bin\Debug\Common.pdb
+E:\02-其它代码\TouchSocketDemo\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\02-其它代码\TouchSocketDemo\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\02-其它代码\TouchSocketDemo\Common\obj\Debug\Common.dll
+E:\02-其它代码\TouchSocketDemo\Common\obj\Debug\Common.pdb

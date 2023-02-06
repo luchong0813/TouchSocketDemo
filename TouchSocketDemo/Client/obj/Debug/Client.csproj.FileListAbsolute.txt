@@ -1,0 +1,15 @@
+E:\02-其它代码\TouchSocketDemo\Client\bin\Debug\Client.exe.config
+E:\02-其它代码\TouchSocketDemo\Client\bin\Debug\Client.exe
+E:\02-其它代码\TouchSocketDemo\Client\bin\Debug\Client.pdb
+E:\02-其它代码\TouchSocketDemo\Client\bin\Debug\TouchSocket.dll
+E:\02-其它代码\TouchSocketDemo\Client\bin\Debug\TouchSocket.xml
+E:\02-其它代码\TouchSocketDemo\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\02-其它代码\TouchSocketDemo\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\02-其它代码\TouchSocketDemo\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\02-其它代码\TouchSocketDemo\Client\obj\Debug\Client.csproj.CopyComplete
+E:\02-其它代码\TouchSocketDemo\Client\obj\Debug\Client.exe
+E:\02-其它代码\TouchSocketDemo\Client\obj\Debug\Client.pdb
+E:\02-其它代码\TouchSocketDemo\Client\bin\Debug\Common.dll
+E:\02-其它代码\TouchSocketDemo\Client\bin\Debug\Newtonsoft.Json.dll
+E:\02-其它代码\TouchSocketDemo\Client\bin\Debug\Common.pdb
+E:\02-其它代码\TouchSocketDemo\Client\bin\Debug\Newtonsoft.Json.xml
